@@ -24,11 +24,6 @@
       "password": ""
     },
 
-    "anti-afk": {
-      "enabled": false,
-      "sneak": false,
-    },
-
     "chat-messages": {
       "enabled": true,
       "repeat": true,
